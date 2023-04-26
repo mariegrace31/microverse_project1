@@ -9,9 +9,7 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
+  -[Install](#install)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -19,8 +17,8 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 <!-- PROJECT DESCRIPTION -->
-# 📖 [microverse_project1] <a name="about-project"></a>
-[microverse_project1] is a small exercise given by microverse in order to help me to undersatnd the basic features of GitHub and how to apply them.
+# 📖 [HelloMicroverse] <a name="about-project"></a>
+[HelloMicroverse] is a small exercise given by microverse in order to help me to undersatnd the basic features of GitHub and how to apply them.
 ## 🛠 Built With <a name="built-with"></a>
 Vs Code using HTML and Css
 ### Tech Stack <a name="tech-stack"></a>
@@ -28,13 +26,15 @@ Vs Code using HTML and Css
   <summary>Hello Microverse</summary>
   <ul>
     <li><a href="https://html.com/">HTML</a></li>
+    <li><a href="https://css.com/">CSS</a><li>
   </ul>
 </details>
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-- [Name]:Hello microverse!
-- [DateOfCreation] :26/04/2023
+- [Feature1]:Setup Microverse linter
+- [Feature2]:Setup a professional Github repository
+- [Feature3]:Use giitflow
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -49,10 +49,7 @@ Clone this repository to your desired folder:
 ### Install
 Install this project with:
   cd my-project
-  gem install
-### Run tests
-To run tests, run the following command:
-bin/rails test test/models/article_test.rb
+  npm install
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- AUTHORS -->
 ## 👥 Authors <a name="authors"></a>
@@ -65,17 +62,17 @@ bin/rails test test/models/article_test.rb
 
 <!-- FUTURE FEATURES -->
 ## 🔭 Future Features <a name="future-features"></a>
-[Feature1] :Logo
+[Feature1] :Add website logo
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcome! Here isthe link to the issues:https://github.com/mariegrace31/microverse_project1/issues
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
-If you like this project, don't hesitate to show your support in one way or another.
+If you like this project, don't hesitate to show your support by liking it.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -86,5 +83,5 @@ I would like to thank Microverse for giving me this opportunity and you too for 
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](MIT.md) licensed.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
