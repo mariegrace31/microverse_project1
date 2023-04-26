@@ -4,7 +4,7 @@
 
 # 📗 Table of Contents
 - [📖 About the Project](#about-project)
-- Live demo
+- [Setup]
 - [👥 Authors](#authors)
 - [📝 License](#license)
 
@@ -13,10 +13,12 @@
 # 📖 [microverse_project1] 
 [microverse_project1] is a small exercise given by microverse in order to help me to undersatnd the basic features of GitHub and how to apply them.
 
-<!-- LIVE DEMO -->
-
- 🚀 Live Demo 
-- [Live Demo Link]()
+<!-- SETUP -->
+clone this repository to your desired folder:
+1.click the green "code" button
+2.choose "download"
+3.After download is completed,right click on the file then choose "extract all"
+4.Open the folder in your desired code editor(Visual Studio Code is a recommended option)
 
 <!-- AUTHORS -->
 
